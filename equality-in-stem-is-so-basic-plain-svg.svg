@@ -41,6 +41,7 @@
      style="display:inline"
      id="layer1">
     <g
+       style="display:inline"
        id="layer4">
       <circle
          r="51.513157"
@@ -49,12 +50,12 @@
          id="path4801"
          style="opacity:1;fill:#ffffff;fill-opacity:0.73658537;stroke:#2197a9;stroke-width:4.97368431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         transform="matrix(-0.81915204,0.57357644,-0.57357644,-0.81915204,1048.5504,612.57904)"
+         transform="matrix(-0.91526498,0.31947768,-0.33150909,-0.87330648,974.77909,742.90577)"
          id="text4187"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.88340807"
          xml:space="preserve"><textPath
            id="textPath4806"
-           xlink:href="#path4801">Equality in STEMis just so Basic</textPath></text>
+           xlink:href="#path4801">Equality in STEM is so basic</textPath></text>
     </g>
     <g
        style="display:none"
@@ -84,35 +85,36 @@
    id="tspan4827">pipeline at tennessee</tspan></textPath></text>
     </g>
     <g
+       style="display:inline"
        id="layer3">
       <g
-         transform="matrix(0.12777723,0,0,0.12777723,386.63486,413.21133)"
+         transform="matrix(0.186538,0,0,0.186538,367.68529,367.21773)"
          id="g4771"
-         style="display:inline;stroke:#ffffff;stroke-width:7.82612051;stroke-miterlimit:4;stroke-dasharray:none">
+         style="display:inline;stroke:#ffffff;stroke-width:7.82612038;stroke-miterlimit:4;stroke-dasharray:none">
         <ellipse
-           style="opacity:1;fill:#1e97a8;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#1e97a8;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4138-3"
            cx="323.21823"
            cy="741.11261"
            rx="169.01343"
            ry="37.07122" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.82612051;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.82612038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 222.85714,332.00506 c 7.10414,34.69549 11.30839,57.43916 7.45975,100.61712 -10.30672,109.25996 -82.74415,196.62631 -77.45975,302.59717 -1.13636,35.32981 120.31357,43.47817 173.43765,43.59246 56.12584,0.12075 167.61397,-7.34932 166.56235,-43.59246 1.30735,-99.26084 -75.44627,-209.89527 -85,-305.71429 -1.31457,-24.2522 4.83935,-68.93043 10.18255,-95.39611 -29.77346,11.37748 -69.09411,16.08894 -99.32863,16.08943 -32.87303,5.4e-4 -72.98694,-4.18275 -95.85392,-18.19332 z"
            id="path4136" />
         <ellipse
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4138"
            ry="22.506395"
            rx="99.433357"
            cy="327.51648"
            cx="320.8175" />
         <path
-           style="fill:#2197a9;fill-opacity:0.73658537;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.82612051;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#2197a9;fill-opacity:0.73658537;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.82612038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 230.28047,432.49784 c -10.30672,109.25996 -84.00684,196.12123 -78.72244,302.09209 -1.13636,35.32981 120.31357,43.47817 173.43765,43.59246 56.12584,0.12075 167.61397,-7.34932 166.56235,-43.59246 1.30735,-99.26084 -75.44627,-209.89527 -85,-305.71429 -33.06074,33.79728 -131.99392,31.33006 -176.27756,3.6222 z"
            id="path4136-7" />
         <ellipse
-           style="opacity:1;fill:#2197a9;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#2197a9;fill-opacity:1;stroke:#ffffff;stroke-width:7.82612038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4138-4"
            cx="318.70316"
            cy="424.04733"
@@ -120,5 +122,21 @@
            ry="28.721874" />
       </g>
     </g>
+    <g
+       id="layer12">
+      <text
+         id="text4161"
+         y="492.78839"
+         x="415.28513"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="492.78839"
+           x="415.28513"
+           id="tspan4163">OH<tspan
+   id="tspan4165"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;fill:#ffffff;stroke:#ffffff">-</tspan></tspan></text>
+    </g>
+    <g
+       id="layer7" />
   </g>
 </svg>
